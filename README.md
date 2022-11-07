@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shreyash96og.github.io/ModernCV.github.io/](https://shreyash96og.github.io/ModernCV.github.io/)
 
-- 💬 Ask me about **Android,Web,Python**
+- 💬 Ask me about **Data Science,Web,Python**
 
 - 📫 How to reach me **gaikwadshreyash1810@gmail.com**
 
