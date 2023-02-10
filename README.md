@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gaikwadshreyash1810@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hcGpv6-9BsL4yDIES4_lmrdKjqaafaPk/view?usp=sharing](https://drive.google.com/file/d/1hcGpv6-9BsL4yDIES4_lmrdKjqaafaPk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link](https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
