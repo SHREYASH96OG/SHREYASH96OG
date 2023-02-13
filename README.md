@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://shreyash96og.github.io/ModernCV.github.io/](https://shreyash96og.github.io/ModernCV.github.io/)
+- 👨‍💻 All of my projects are available at [https://shreyash96og.github.io/ModernCV.github.io/](https://shreyash96og.github.io/Vitejs-project/)
 
 - 💬 Ask me about **Data Science,Web,Python**
 
