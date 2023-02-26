@@ -16,10 +16,23 @@
 
 <!-- End here -->
 
-- 🔭 &nbsp; ⇢ &nbsp; Learning Backend Web Development👩‍💻
-- 📋 &nbsp; ⇢ &nbsp; Practising DS and Algorithms on [Leetcode](https://github.com/) ⌛
-- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
-- 🙋‍♀️ &nbsp; ⇢ &nbsp; Discuss your ideas with me [here](https://github.com///issues)
+- 🌱 I’m currently learning **Javascript**
+
+- 👨‍💻 All of my projects are available at [https://shreyash96og.github.io/Vitejs-project/](https://shreyash96og.github.io/Vitejs-project/)
+
+- 💬 Ask me about **Data Science,Web,Python**
+
+- 📫 How to reach me **gaikwadshreyash1810@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link](https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shreyash-gaikwad-b30ab519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash gaikwad" height="30" width="40" /></a>
+<a href="https://fb.com/shreyash gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreyash gaikwad" height="30" width="40" /></a>
+<a href="https://instagram.com/shre_y_ash_96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shre_y_ash96k" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gaikwadshreyash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyash gaikwad" height="30" width="40" /></a>
+</p>
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
