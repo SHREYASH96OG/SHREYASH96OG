@@ -41,6 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash96og&show_icons=true&locale=en" alt="shreyash96og" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash96og&" alt="shreyash96og" /></p>
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
 
 
 
