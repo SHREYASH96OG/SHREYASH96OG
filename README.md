@@ -42,7 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash96og&show_icons=true&locale=en" alt="shreyash96og" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash96og&" alt="shreyash96og" /></p>
-
+![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
 
 
 
