@@ -18,13 +18,13 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://shreyash96og.github.io/Vitejs-project/](https://shreyash96og.github.io/Vitejs-project/)
+- 👨‍💻 All of my projects are available at [Click Here](https://shreyash96og.github.io/Vitejs-project/)
 
 - 💬 Ask me about **Data Science,Web,Python**
 
 - 📫 How to reach me **gaikwadshreyash1810@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link](https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
