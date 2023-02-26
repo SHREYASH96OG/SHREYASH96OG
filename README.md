@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash96og&label=Profile%20views&color=red&style=flat" alt="shreyash96og" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
 
 <h1 align="center">
   <a href="#">
@@ -41,7 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash96og&show_icons=true&locale=en" alt="shreyash96og" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash96og&" alt="shreyash96og" /></p>
-<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+
 
 
 
