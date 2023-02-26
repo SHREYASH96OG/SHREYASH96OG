@@ -49,6 +49,8 @@
 
 ![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
 
+![snake gif](https://github.com/SHREYASH96OG/SHREYASH96OG/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
