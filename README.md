@@ -42,8 +42,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash96og&show_icons=true&locale=en" alt="shreyash96og" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash96og&" alt="shreyash96og" /></p>
-![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
+<!-- Cool Wave content Start here  -->
 
+<!-- ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png) -->
+
+
+![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
 
 
 
