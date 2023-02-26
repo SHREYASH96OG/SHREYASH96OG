@@ -91,7 +91,7 @@
 
 <!-- GitHub Stats  Start here -->
 
-### 👩‍💻 Account Statistics
+ <h3 align="center">💻 Account Statistics:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash96og&show_icons=true&locale=en" alt="shreyash96og" /></p>
     
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash96og&show_icons=true&locale=en&layout=compact" alt="shreyash96og" /></p>
