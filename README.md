@@ -15,17 +15,13 @@
 <!-- <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif"> -->
 
 <!-- End here -->
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [Click Here](https://shreyash96og.github.io/Vitejs-project/)
-
-- 💬 Ask me about **Data Science,Web,Python**
-
-- 📫 How to reach me **gaikwadshreyash1810@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link)
-
+<ul align="center">
+<li>🌱 I’m currently learning **Javascript**</li>
+<li>👨‍💻 All of my projects are available at <a href="https://shreyash96og.github.io/Vitejs-project/">Click Here</a></li>
+<li>💬 Ask me about **Data Science,Web,Python**</li>
+<li>📫 How to reach me **gaikwadshreyash1810@gmail.com**</li>
+<li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link">Click Here</a></li>
+</ul>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shreyash-gaikwad-b30ab519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash gaikwad" height="30" width="40" /></a>
