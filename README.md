@@ -96,6 +96,8 @@
     
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash96og&show_icons=true&locale=en&layout=compact" alt="shreyash96og" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHREYASH96OG&hide_border=true)](https://git.io/streak-stats)
+
 <!-- End here -->
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
