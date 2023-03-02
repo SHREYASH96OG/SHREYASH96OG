@@ -88,11 +88,10 @@
 <!-- GitHub Stats  Start here -->
 
 <h3 align="center">💻 Account Statistics:</h3>
+<br><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&count_private=true" alt="shreyash96og" /></p>
+<br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHREYASH96OG&theme=react&hide_border=false" alt="shreyash96og" /></p>
 
-<br></br><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&count_private=true" alt="shreyash96og" /></p>
-<br></br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHREYASH96OG&theme=react&hide_border=false" alt="shreyash96og" /></p>
-
-<br></br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&layout=compact" alt="shreyash96og" /></p>
+<br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&layout=compact" alt="shreyash96og" /></p>
 
 
 
@@ -100,8 +99,8 @@
 <!-- End here -->
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![snake gif](https://github.com/SHREYASH96OG/SHREYASH96OG/blob/output/github-contribution-grid-snake.gif)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<p align="center"><a href="#"><img width=auto height=auto alt="shreyash96OG" src="https://github.com/SHREYASH96OG/SHREYASH96OG/blob/output/github-contribution-grid-snake.gif" /></a></p>
 <br/>
 
 <!-- End here ... -->
