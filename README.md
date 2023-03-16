@@ -1,4 +1,10 @@
-<pre align="center"  > <b>  This is Shreyash!</b>🙋‍♀️ </pre>
+### Hey there, I'm <a  href="https://github.com/SHREYASH96OG/"> Shreyash Gaikwad </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+#### 👨🏻‍💻 About Me 
+I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web Development arena. For the last 2 years, I have been developing Websites using HTML/CSS,JAVASCRIPT,XML,REACT.JS ETC As a teenager at school, I was the kid other students approached about issues with their phone or laptop. I was the go-to guy for fixing any technical problems.Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software to solve the problems. To expand my Knowledge i trying to learn new technologies related to web development.
+
+
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=shreyash96og&label=Profile%20views&color=red&style=flat" alt="views"/></div>
 <br>
 <br>
