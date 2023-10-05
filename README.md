@@ -106,9 +106,7 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
 <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fykaa&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-</details>
 -->
 <!-- End here -->
 
