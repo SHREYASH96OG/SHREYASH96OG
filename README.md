@@ -96,7 +96,7 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
 <!-- End here -->
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<p align="center"><a href="#"><img width=auto height=auto alt="shreyash96OG" src="https://github.com/SHREYASH96OG/SHREYASH96OG/blob/output/github-contribution-grid-snake.gif" /></a></p>
+
 <br/>
 
 <!-- End here ... -->
