@@ -93,6 +93,7 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
 <br><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&count_private=true" alt="shreyash96og" /></p>
 <br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHREYASH96OG&theme=react&hide_border=false" alt="shreyash96og" /></p>
 <br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&layout=compact" alt="shreyash96og" /></p>
+[![An image of @shreyash96og's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyash96og)](https://holopin.io/@shreyash96og)
 <!-- End here -->
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
