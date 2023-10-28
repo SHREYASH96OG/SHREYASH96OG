@@ -19,7 +19,7 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
 <li>👨‍💻 All of my projects are available at <a href="https://shreyash96og.github.io/Vitejs-project/">Click Here</a></li>
 <li>💬 Ask me about **Data Science,Web,Python**</li>
 <li>📫 How to reach me **gaikwadshreyash1810@gmail.com**</li>
-<li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link">Click Here</a></li>
+<li>📄 Know about my experiences <a href="[https://drive.google.com/file/d/1pHXFOFa2luFsEKNChpJJXMEjhIkPHrQm/view?usp=share_link](https://drive.google.com/file/d/17S9DVhQ9dW2XQwixfOIRpvVQCLJTNggc/view?usp=drive_link)">Click Here</a></li>
 </ul>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
