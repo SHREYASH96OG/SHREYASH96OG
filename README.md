@@ -15,10 +15,10 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
   </a>
 </h1>
 <ul align="center">
-<li>🌱 I’m currently learning **Javascript**</li>
+<li>🌱 I’m currently learning Javascript</li>
 <li>👨‍💻 All of my projects are available at <a href="https://shreyash96og.github.io/Vitejs-project/">Click Here</a></li>
-<li>💬 Ask me about **Data Science,Web,Python**</li>
-<li>📫 How to reach me **gaikwadshreyash1810@gmail.com**</li>
+<li>💬 Ask me about Web Developer,Js ,C++ and Python.</li>
+<li>📫 How to reach me gaikwadshreyash1810@gmail.com</li>
 <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/17S9DVhQ9dW2XQwixfOIRpvVQCLJTNggc/view?usp=drive_link">Click Here</a></li>
 </ul>
 <h3 align="center">Connect with me:</h3>
