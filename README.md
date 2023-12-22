@@ -36,6 +36,7 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&count_private=true" alt="shreyash96og" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHREYASH96OG&theme=react&hide_border=false" alt="shreyash96og" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYASH96OG&theme=react&show_icons=true&hide_border=false&layout=compact" alt="shreyash96og" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHREYASH96OG" alt="SHREYASH GAIKWAD" /></a> </p>
 <div align="center">
 <a href="https://www.holopin.io/@shreyash96og"><img height="190" src="https://holopin.me/shreyash96og"></a> 
 </div>
