@@ -8,7 +8,7 @@ I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web De
 <div align="center"><img src="https://komarev.com/ghpvc/?username=shreyash96og&label=Profile%20views&color=red&style=flat" alt="views"/></div>
 <br>
 <br>
-<p align="center"><a href="#"><img width=450px height=auto alt="shreyash96OG" src="https://dribbble.com/shots/3848914-Programmer-Thomas" /></a></p>
+<p align="center"><a href="#"><img width=450px height=auto alt="shreyash96OG" src="programmer.gif" /></a></p>
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
