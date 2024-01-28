@@ -1,7 +1,9 @@
 ### Hey there, I'm <a  href="https://github.com/SHREYASH96OG/"> Shreyash Gaikwad </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 #### 👨🏻‍💻 About Me 
-I am Shreyash Gaikwad a  software developer, specialising in the Frontend Web Development arena. For the last 2 years, I have been developing Websites using HTML/CSS,JAVASCRIPT,XML,REACT.JS ETC As a teenager at school, I was the kid other students approached about issues with their phone or laptop. I was the go-to guy for fixing any technical problems.Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software to solve the problems. To expand my Knowledge i trying to learn new technologies related to web development.
+I am Shreyash Gaikwad, a software developer specializing in Frontend Web Development. Over the last 2 years, I have been actively involved in developing websites using HTML, CSS, JavaScript, XML, React.js, etc. Even during my teenage years at school, I was the go-to person for my peers when they faced issues with their phones or laptops. I was known for fixing various technical problems.
+
+Today, not much has changed. I still serve as the first point of contact for technical issues, but now I also create innovative software solutions to address these problems. In my quest to expand my knowledge, I am constantly learning new technologies related to web development.
 
 
 
