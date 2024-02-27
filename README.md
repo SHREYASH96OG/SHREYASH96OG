@@ -20,7 +20,7 @@ Today, not much has changed. I still serve as the first point of contact for tec
 <li>👨‍💻 All of my projects are available at <a href="https://portfolioshreyashgaikwad.netlify.app/">Click Here</a></li>
 <li>💬 Ask me about Web Developer,Js ,C++ and Python.</li>
 <li>📫 How to reach me gaikwadshreyash1810@gmail.com</li>
-<li>📄 Know about my experiences <a href="https://drive.google.com/file/d/17S9DVhQ9dW2XQwixfOIRpvVQCLJTNggc/view?usp=drive_link">Click Here</a></li>
+<li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1w1Oh27pJzn4JLu0QjoscZqkJtdiQJn-R/view?usp=drive_link">Click Here</a></li>
 </ul>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
