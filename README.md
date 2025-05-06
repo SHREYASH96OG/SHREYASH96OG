@@ -40,4 +40,6 @@ Today, not much has changed. I still serve as the first point of contact for tec
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHREYASH96OG" alt="SHREYASH GAIKWAD" /></a> </p>
 <div align="center">
 <a href="https://www.holopin.io/@shreyash96og"><img height="190" src="https://holopin.me/shreyash96og"></a> 
+<p align="center"><img src="https://api.netlify.com/api/v1/badges/fc34705a-b721-43fa-b0d2-47a40e9db8f7/deploy-status" alt="shreyash96og" /></p>
+
 </div>
